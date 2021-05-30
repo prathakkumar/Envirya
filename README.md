@@ -1,7 +1,7 @@
 # Envirya
 
 A Data Extraction Web App that converts Images to Tables. <br>
-The Exported Table could be downloaded in csv format.
+The Exported Table could be downloaded in csv format. <br>
 The result is stored in outputC.scv folder.
 
 To get this project working on your local machine, pull this repo and install all the python modules mentioned in requirements.txt file. 
